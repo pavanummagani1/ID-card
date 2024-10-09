@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    width: 300px;
+    border-width: 5px;
+    border-style: groove;
+    border-radius: 30px;
+    background-color: #ffffff;
+    /* background: #EB8317 10%; */
+
+}
+.header{
+    height: 50px;
+    margin: 10px;
+    background-color: #EB8317;
+    /* background: linear-gradient(to right, black 50%, white 50%); */
+}
+h2{
+    text-align: center;
+    padding: 10px;
+    color: #ffffff;
+}
+.logo{
+    height: 150px;
+    width: 150px;
+    border-radius:50%;
+    margin: auto;
+    margin-bottom: 10px;
+}
+.image{
+    width: 100%;
+    border-radius:50%;
+}
+.name{
+    height: 50px;
+    width: 145px;
+    margin: 0px 0px 10px 75px;
+    text-align: center;
+    padding-top: 10px;
+    /* background-color: #464356; */
+}
+.email, .Contact{
+    height: 35px;
+    text-align: center;
+    font-weight: 600;
+
+}
